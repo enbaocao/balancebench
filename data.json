@@ -20,10 +20,6 @@
     "coefficients": [4,1,4]
   },
   {
-    "equation": "Na + O2 -> Na2O",
-    "coefficients": [4,1,2]
-  },
-  {
     "equation": "N2 + O2 -> N2O5",
     "coefficients": [2,5,2]
   },
@@ -38,10 +34,6 @@
   {
     "equation": "KOH + HBr -> KBr + H2O",
     "coefficients": [1,1,1,1]
-  },
-  {
-    "equation": "Na + O2 -> Na2O",
-    "coefficients": [4,1,2]
   },
   {
     "equation": "Al(OH)3 + H2CO3 -> Al2(CO3)3 + H2O",
@@ -190,9 +182,5 @@
   {
     "equation": "C + H2 -> CH4",
     "coefficients": [1,2,1]
-  },
-  {
-    "equation": "C2H6 + O2 -> CO2 + H2O",
-    "coefficients": [2,7,4,6]
   }
 ]
