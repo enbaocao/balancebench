@@ -36,6 +36,4 @@ The following table summarizes the performance of various language models on the
 
 ## Key Findings
 
-*   Several models, including o3, o4-mini, 3.7 sonnet thinking, and Gemini 2.5 Pro, demonstrated perfect accuracy in balancing all 47 chemical equations.
-*   A noticeable performance tiering is evident, with models like 3.7 sonnet, o1, and Gemini 2.0 Flash showing high accuracy, followed by others with slightly lower, yet still strong, performance.
-*   The "thinking" variant of the "3.7 sonnet" model achieved a perfect score, outperforming its base counterpart.
+*   Reasoning traces matter - all models that achieved a perfect score are reasoning models. 
