@@ -14,6 +14,7 @@ The `prompt.txt` file contains the specific prompt to be used when querying the 
 
 The following table summarizes the performance of various language models on the chemical equation balancing task. The task consists of 47 equations.
 
+
 | Model                 | Correctly Balanced | Accuracy (%) |
 |-----------------------|--------------------|--------------|
 | o3                    | 47/47              | 100.00%      |
@@ -27,6 +28,10 @@ The following table summarizes the performance of various language models on the
 | 4.1                   | 41/47              | 87.23%       |
 | 4o                    | 39/47              | 82.98%       |
 | 3.5 sonnet            | 39/47              | 82.98%       |
+
+### Performance Visualization (Image)
+
+![Model Performance Comparison](./model_performance_comparison_sorted.png)
 
 ### Performance Visualization (Text-based)
 
