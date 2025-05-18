@@ -1,0 +1,198 @@
+[
+  {
+    "equation": "H3PO4 + KOH → K3PO4 + H2O",
+    "coefficients": [1,3,1,3]
+  },
+  {
+    "equation": "K + B2O3 → K2O + B",
+    "coefficients": [6,1,3,2]
+  },
+  {
+    "equation": "HCl + NaOH → NaCl + H2O",
+    "coefficients": [1,1,1,1]
+  },
+  {
+    "equation": "Na + NaNO3 → Na2O + N2",
+    "coefficients": [10,2,6,1]
+  },
+  {
+    "equation": "C + S8 → CS2",
+    "coefficients": [4,1,4]
+  },
+  {
+    "equation": "Na + O2 → Na2O",
+    "coefficients": [4,1,2]
+  },
+  {
+    "equation": "N2 + O2 → N2O5",
+    "coefficients": [2,5,2]
+  },
+  {
+    "equation": "H3PO4 + Mg(OH)2 → Mg3(PO4)2 + H2O",
+    "coefficients": [2,3,1,6]
+  },
+  {
+    "equation": "NaOH + H2CO3 → Na2CO3 + H2O",
+    "coefficients": [2,1,1,2]
+  },
+  {
+    "equation": "KOH + HBr → KBr + H2O",
+    "coefficients": [1,1,1,1]
+  },
+  {
+    "equation": "Na + O2 → Na2O",
+    "coefficients": [4,1,2]
+  },
+  {
+    "equation": "Al(OH)3 + H2CO3 → Al2(CO3)3 + H2O",
+    "coefficients": [2,3,1,6]
+  },
+  {
+    "equation": "Al + S8 → Al2S3",
+    "coefficients": [16,3,8]
+  },
+  {
+    "equation": "Cs + N2 → Cs3N",
+    "coefficients": [6,1,2]
+  },
+  {
+    "equation": "Mg + Cl2 → MgCl2",
+    "coefficients": [1,1,1]
+  },
+  {
+    "equation": "Rb + RbNO3 → Rb2O + N2",
+    "coefficients": [10,2,6,1]
+  },
+  {
+    "equation": "C6H6 + O2 → CO2 + H2O",
+    "coefficients": [2,15,12,6]
+  },
+  {
+    "equation": "N2 + H2 → NH3",
+    "coefficients": [1,3,2]
+  },
+  {
+    "equation": "C10H22 + O2 → CO2 + H2O",
+    "coefficients": [2,31,20,22]
+  },
+  {
+    "equation": "Al(OH)3 + HBr → AlBr3 + H2O",
+    "coefficients": [1,3,1,3]
+  },
+  {
+    "equation": "CH3CH2CH2CH3 + O2 → CO2 + H2O",
+    "coefficients": [2,13,8,10]
+  },
+  {
+    "equation": "C3H8 + O2 → CO2 + H2O",
+    "coefficients": [1,5,3,4]
+  },
+  {
+    "equation": "Li + AlCl3 → LiCl + Al",
+    "coefficients": [3,1,3,1]
+  },
+  {
+    "equation": "C2H6 + O2 → CO2 + H2O",
+    "coefficients": [2,7,4,6]
+  },
+  {
+    "equation": "NH4OH + H3PO4 → (NH4)3PO4 + H2O",
+    "coefficients": [3,1,1,3]
+  },
+  {
+    "equation": "Rb + P → Rb3P",
+    "coefficients": [3,1,1]
+  },
+  {
+    "equation": "CH4 + O2 → CO2 + H2O",
+    "coefficients": [1,2,1,2]
+  },
+  {
+    "equation": "Al(OH)3 + H2SO4 → Al2(SO4)3 + H2O",
+    "coefficients": [2,3,1,6]
+  },
+  {
+    "equation": "Na + Cl2 → NaCl",
+    "coefficients": [2,1,2]
+  },
+  {
+    "equation": "Rb + S8 → Rb2S",
+    "coefficients": [16,1,8]
+  },
+  {
+    "equation": "H3PO4 + Ca(OH)2 → Ca3(PO4)2 + H2O",
+    "coefficients": [2,3,1,6]
+  },
+  {
+    "equation": "NH3 + HCl → NH4Cl",
+    "coefficients": [1,1,1]
+  },
+  {
+    "equation": "Li + H2O → LiOH + H2",
+    "coefficients": [2,2,2,1]
+  },
+  {
+    "equation": "Ca3(PO4)2 + SiO2 + C → CaSiO3 + CO + P",
+    "coefficients": [1,3,5,3,5,2]
+  },
+  {
+    "equation": "NH3 + O2 → N2 + H2O",
+    "coefficients": [4,3,2,6]
+  },
+  {
+    "equation": "FeS2 + O2 → Fe2O3 + SO2",
+    "coefficients": [4,11,2,8]
+  },
+  {
+    "equation": "C + SO2 → CS2 + CO",
+    "coefficients": [5,2,1,4]
+  },
+  {
+    "equation": "P + O2 -> P4O10",
+    "coefficients": [4,5,1]
+  },
+  {
+    "equation": "Mg + O2 -> MgO",
+    "coefficients": [2,1,2]
+  },
+  {
+    "equation": "HgO -> Hg + O2",
+    "coefficients": [2,2,1]
+  },
+  {
+    "equation": "Al2O3 -> Al + O2",
+    "coefficients": [2,4,3]
+  },
+  {
+    "equation": "BaCl2 + H2SO4 -> BaSO4 + HCl",
+    "coefficients": [1,1,1,2]
+  },
+  {
+    "equation": "Cl2 + NaBr -> NaCl + Br2",
+    "coefficients": [1,2,2,1]
+  },
+  {
+    "equation": "H2 + N2 -> NH3",
+    "coefficients": [3,1,2]
+  },
+  {
+    "equation": "Na + Br2 -> NaBr",
+    "coefficients": [2,1,2]
+  },
+  {
+    "equation": "CuCl2 + H2S -> CuS + HCl",
+    "coefficients": [1,1,1,2]
+  },
+  {
+    "equation": "HgO + Cl2 -> HgCl + O2",
+    "coefficients": [2,1,2,1]
+  },
+  {
+    "equation": "C + H2 -> CH4",
+    "coefficients": [1,2,1]
+  },
+  {
+    "equation": "C2H6 + O2 -> CO2 + H2O",
+    "coefficients": [2,7,4,6]
+  }
+]
