@@ -42,9 +42,9 @@ fig, ax = plt.subplots(figsize=(12, 8))
 bars = ax.bar(sorted_models, sorted_scores, color=plt.cm.get_cmap('viridis', len(sorted_models)).colors)
 
 # Add labels and title
-ax.set_ylabel(f'Correctly Balanced Equations (out of {total_possible})', fontsize=14)
+ax.set_ylabel(f'correctly balanced equations (out of {total_possible})', fontsize=14)
 ax.set_xlabel('Model', fontsize=14)
-ax.set_title('Chemical Equation Balancing Performance by Model (Sorted)', fontsize=16, fontweight='bold')
+ax.set_title('BalanceBench performance by model', fontsize=16, fontweight='bold')
 
 # Add data labels to the bars
 for bar in bars:
@@ -60,6 +60,4 @@ ax.spines['right'].set_visible(False)
 plt.tight_layout()
 
 # Save the figure
-plt.savefig('model_performance_comparison_sorted.png', dpi=300)
-
-print("Figure saved as model_performance_comparison_sorted.png")
+plt.savefig('img.png', dpi=300)
