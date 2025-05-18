@@ -25,30 +25,31 @@ Equations:
 20. CH3CH2CH2CH3 + O2 -> CO2 + H2O
 21. C3H8 + O2 -> CO2 + H2O
 22. Li + AlCl3 -> LiCl + Al
-23. NH4OH + H3PO4 -> (NH4)3PO4 + H2O
-24. Rb + P -> Rb3P
-25. CH4 + O2 -> CO2 + H2O
-26. Al(OH)3 + H2SO4 -> Al2(SO4)3 + H2O
-27. Na + Cl2 -> NaCl
-28. Rb + S8 -> Rb2S
-29. H3PO4 + Ca(OH)2 -> Ca3(PO4)2 + H2O
-30. NH3 + HCl -> NH4Cl
-31. Li + H2O -> LiOH + H2
-32. Ca3(PO4)2 + SiO2 + C -> CaSiO3 + CO + P
-33. NH3 + O2 -> N2 + H2O
-34. FeS2 + O2 -> Fe2O3 + SO2
-35. C + SO2 -> CS2 + CO
-36. P + O2 -> P4O10
-37. Mg + O2 -> MgO
-38. HgO -> Hg + O2
-39. Al2O3 -> Al + O2
-40. BaCl2 + H2SO4 -> BaSO4 + HCl
-41. Cl2 + NaBr -> NaCl + Br2
-42. H2 + N2 -> NH3
-43. Na + Br2 -> NaBr
-44. CuCl2 + H2S -> CuS + HCl
-45. HgO + Cl2 -> HgCl + O2
-46. C + H2 -> CH4
+23. C2H6 + O2 -> CO2 + H2O
+24. NH4OH + H3PO4 -> (NH4)3PO4 + H2O
+25. Rb + P -> Rb3P
+26. CH4 + O2 -> CO2 + H2O
+27. Al(OH)3 + H2SO4 -> Al2(SO4)3 + H2O
+28. Na + Cl2 -> NaCl
+29. Rb + S8 -> Rb2S
+30. H3PO4 + Ca(OH)2 -> Ca3(PO4)2 + H2O
+31. NH3 + HCl -> NH4Cl
+32. Li + H2O -> LiOH + H2
+33. Ca3(PO4)2 + SiO2 + C -> CaSiO3 + CO + P
+34. NH3 + O2 -> N2 + H2O
+35. FeS2 + O2 -> Fe2O3 + SO2
+36. C + SO2 -> CS2 + CO
+37. P + O2 -> P4O10
+38. Mg + O2 -> MgO
+39. HgO -> Hg + O2
+40. Al2O3 -> Al + O2
+41. BaCl2 + H2SO4 -> BaSO4 + HCl
+42. Cl2 + NaBr -> NaCl + Br2
+43. H2 + N2 -> NH3
+44. Na + Br2 -> NaBr
+45. CuCl2 + H2S -> CuS + HCl
+46. HgO + Cl2 -> HgCl + O2
+47. C + H2 -> CH4
 
 Example of expected output format:
 {

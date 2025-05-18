@@ -20,6 +20,10 @@
     "coefficients": [4,1,4]
   },
   {
+    "equation": "Na + O2 -> Na2O",
+    "coefficients": [4,1,2]
+  },
+  {
     "equation": "N2 + O2 -> N2O5",
     "coefficients": [2,5,2]
   },
