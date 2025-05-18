@@ -1,0 +1,12 @@
+You are given an UNBALANCED chemical equation written with element symbols, integer subscripts, and the arrow “->”.
+Your task is to output **only** a JSON array of the smallest positive integer coefficients that balance the equation.
+The array must list the coefficients **in the order the compounds appear**, first all reactants left of “->”, then all products right of “->”.
+Do **not** output any text, comments, spaces, or line breaks outside the JSON array.
+
+Example (input → output)
+Input:   Fe + O2 -> Fe2O3
+Output:  [4,3,2]
+
+Now balance the following equation:
+
+{equation_here}

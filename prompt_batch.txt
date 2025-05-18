@@ -1,0 +1,60 @@
+You are a stoichiometry assistant. For each chemical equation provided below, determine the smallest positive integer coefficients that balance it.
+Output **only** a single JSON object where keys are the input equations (exactly as written) and values are JSON arrays of the determined coefficients.
+Order the coefficients for each equation as: all reactants, then all products. No extra text or explanation outside the JSON object.
+
+Equations:
+1. H3PO4 + KOH -> K3PO4 + H2O
+2. K + B2O3 -> K2O + B
+3. HCl + NaOH -> NaCl + H2O
+4. Na + NaNO3 -> Na2O + N2
+5. C + S8 -> CS2
+6. Na + O2 -> Na2O
+7. N2 + O2 -> N2O5
+8. H3PO4 + Mg(OH)2 -> Mg3(PO4)2 + H2O
+9. NaOH + H2CO3 -> Na2CO3 + H2O
+10. KOH + HBr -> KBr + H2O
+11. Na + O2 -> Na2O
+12. Al(OH)3 + H2CO3 -> Al2(CO3)3 + H2O
+13. Al + S8 -> Al2S3
+14. Cs + N2 -> Cs3N
+15. Mg + Cl2 -> MgCl2
+16. Rb + RbNO3 -> Rb2O + N2
+17. C6H6 + O2 -> CO2 + H2O
+18. N2 + H2 -> NH3
+19. C10H22 + O2 -> CO2 + H2O
+20. Al(OH)3 + HBr -> AlBr3 + H2O
+21. CH3CH2CH2CH3 + O2 -> CO2 + H2O
+22. C3H8 + O2 -> CO2 + H2O
+23. Li + AlCl3 -> LiCl + Al
+24. C2H6 + O2 -> CO2 + H2O
+25. NH4OH + H3PO4 -> (NH4)3PO4 + H2O
+26. Rb + P -> Rb3P
+27. CH4 + O2 -> CO2 + H2O
+28. Al(OH)3 + H2SO4 -> Al2(SO4)3 + H2O
+29. Na + Cl2 -> NaCl
+30. Rb + S8 -> Rb2S
+31. H3PO4 + Ca(OH)2 -> Ca3(PO4)2 + H2O
+32. NH3 + HCl -> NH4Cl
+33. Li + H2O -> LiOH + H2
+34. Ca3(PO4)2 + SiO2 + C -> CaSiO3 + CO + P
+35. NH3 + O2 -> N2 + H2O
+36. FeS2 + O2 -> Fe2O3 + SO2
+37. C + SO2 -> CS2 + CO
+38. P + O2 -> P4O10
+39. Mg + O2 -> MgO
+40. HgO -> Hg + O2
+41. Al2O3 -> Al + O2
+42. BaCl2 + H2SO4 -> BaSO4 + HCl
+43. Cl2 + NaBr -> NaCl + Br2
+44. H2 + N2 -> NH3
+45. Na + Br2 -> NaBr
+46. CuCl2 + H2S -> CuS + HCl
+47. HgO + Cl2 -> HgCl + O2
+48. C + H2 -> CH4
+49. C2H6 + O2 -> CO2 + H2O
+
+Example of expected output format:
+{
+  "Fe + O2 -> Fe2O3": [4,3,2],
+  "H2 + O2 -> H2O": [2,1,2]
+}
